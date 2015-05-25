@@ -15,8 +15,8 @@ $ npm install --save is-opera
 ```js
 var isOpera = require('is-opera');
 
-isOpera();
-//=> true
+console.log(isOpera);
+//=> false
 ```
 
 
