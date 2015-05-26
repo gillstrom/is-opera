@@ -1,6 +1,6 @@
 {
   "name": "is-opera",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Check if browser is Opera",
   "license": "MIT",
   "repository": "gillstrom/is-opera",
