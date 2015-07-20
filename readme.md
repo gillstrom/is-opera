@@ -47,7 +47,7 @@ User agent to test.
 
 Type: `string` or `number`
 
-Check for specific version
+Check for specific version.
 
 
 ## Related
