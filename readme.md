@@ -28,13 +28,12 @@ isOpera({userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit
 ```
 
 
-### isOpera(options)
+### isOpera([options])
 
 Returns a `boolean`.
 
 #### options
 
-*Optional*  
 Type: `object`
 
 ##### options.userAgent
